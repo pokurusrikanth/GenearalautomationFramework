@@ -1,0 +1,7 @@
+{
+"firstname":"srikanth",
+"lastname":"reddy",
+"usernamefield":"//*[@id="formBasicEmail"]",
+"passwordfield":"//*[@id="formBasicPassword"]",
+"signinbutton":"//*[@id="root"]/div/div/div/div[2]/div/div[2]/div/div[2]/form/button"
+}

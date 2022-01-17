@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47558" started-at="2022-01-06T14:45:54 IST" finished-at="2022-01-06T14:46:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47558" started-at="2022-01-06T14:45:54 IST" finished-at="2022-01-06T14:46:42 IST">
+      <class name="dcap.InvoicePrebuilt">
+        <test-method status="PASS" signature="Create_prebuilt_model()[pri:0, instance:dcap.InvoicePrebuilt@37d31475]" name="Create_prebuilt_model" duration-ms="47522" started-at="2022-01-06T14:45:54 IST" finished-at="2022-01-06T14:46:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_prebuilt_model -->
+      </class> <!-- dcap.InvoicePrebuilt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
